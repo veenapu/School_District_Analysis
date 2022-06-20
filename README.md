@@ -25,7 +25,7 @@ Comparing the two summaries below, it is obvious that there was not much of an i
 - The % Passing Reading decreased from 85.8% to 85.7%
 - The % Overall Passing decreased from 65.2% to 64.9%
 
-![Original District Symmary](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.png)
+![Original District Summary](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.png "Original District Summary")
 
 ![Updated District Summary](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20District%20Summary.png)
 
