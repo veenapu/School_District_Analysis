@@ -26,6 +26,7 @@ Comparing the two summaries below, it is obvious that there was not much of an i
 - The % Overall Passing decreased from 65.2% to 64.9%
 
 Original District Summary
+
 ![Original District Summary](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.png)
 
 Updated District Summary
