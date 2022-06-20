@@ -30,6 +30,7 @@ Original District Summary
 ![Original District Summary](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.png)
 
 Updated District Summary
+
 ![Updated District Summary](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20District%20Summary.png)
 
 ## How is the school summary affected?
@@ -42,9 +43,11 @@ Looking at Thomas High School for example in the screenshots below, there was an
 - The % Overall Passing decreased from 90.9% to 90.6%
 
 Original Per School Summary
+
 ![Original Per School Summary](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20Per%20School%20Summary.png)
 
 Updated Per School Summary
+
 ![Updated Per School Summary](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20Per%20School%20Summary.png)
 
 
@@ -60,15 +63,19 @@ The bottom schools were not affected at all, as Thomas High School was not in th
 - The % Overall Passing decreased from 90.9% to 90.6%
 
 Original Top 5 schools
+
 ![Original Top 5 schools](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20Top%205%20Schools.png)
 
 Updated Top 5 schools
+
 ![Updated Top 5 schools](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20Top%205%20Schools.png)
 
 Original Bottom 5 schools
+
 ![Original Bottom 5 schools](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20Bottom%205%20Schools.png)
 
 Updated Bottom 5 schools
+
 ![Updated Bottom 5 schools](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20Bottom%205%20Schools.png)
 
 
@@ -81,42 +88,52 @@ Average 9th grade Reading Scores decreased from 82.5 to 82.4 after Thomas High S
 Average 9th grade Math Scores decreased from 80.4 to 80.1 after Thomas High School 9th graders were excluded.
 
 Original Math Scores by Grade
+
 ![Original Math Scores by Grade](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20Math%20Scores%20by%20Grade.png)
 
 Updated Math Scores by Grade
+
 ![Updated Math Scores by Grade](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20Math%20Scores%20by%20Grade.png)
 
 Original Reading Scores by Grade
+
 ![Original Reading Scores by Grade](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20Reading%20Scores%20by%20Grade.png)
 
 Updated Reading Scores by Grade
+
 ![Updated Reading Scores by Grade](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20Reading%20Scores%20by%20Grade.png)
 
 ## Scores by school spending
 Thomas High School falls within the $630-$644 per capita spending bin. Within this bin, while the % Passing Reading decreased from 84.4% to 84.3%, and % Overall Passing decreased from 62.9% to 62.8%, a very small change; there was no change in the rest of the metrics.
 
 Original School Spending
+
 ![Original School Spending](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20School%20Spending.png)
 
 Updated School Spending
+
 ![Updated School Spending](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20School%20Spending.png)
 
 ## Scores by school size
 Within this bin, while the % Passing Reading decreased from 96.8% to 96.7% and the % Overall Passing decreased from 90.6% to 90.5%; there was no change in the rest of the metrics. Thomas High Schools falls under the medium sized school bracket.
 
 Original Scores by School Size
+
 ![Original Scores by School Size](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20Scores%20by%20School%20Size.png)
 
 Updated Scores by School Size
+
 ![Updated Scores by School Size](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20Scores%20by%20School%20Size.png)
 
 ## Scores by school type
 Within this bin, the % Passing Reading decreased from 96.6% to 96.5% while the rest of the metrics remained the same. 
 
 Original Scores by School Type
+
 ![Original Scores by School Type](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Original%20Scores%20by%20School%20Type.png)
 
 Updated Scores by School Type
+
 ![Updated Scores by School Type](https://github.com/veenapu/School_District_Analysis/blob/main/Resources/Updated%20Scores%20by%20School%20Type.png)
 
 
