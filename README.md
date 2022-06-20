@@ -1,7 +1,6 @@
-#**School DISTRICT ANALYSIS**
-##**Overview of the school district analysis: 
+# **SCHOOL DISTRICT ANALYSIS**
 
-## **Explain the purpose of this analysis**
+# **Overview and purpose of the school district analysis:** 
 The school board has notified that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards.
 
 So, the analysis involves  replacing the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once the math and reading scores those have been replaced, the school district analysis needs to be completed and describe how these changes affected the overall analysis.
